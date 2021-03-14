@@ -1,5 +1,6 @@
 # Intersection of Two Linked Lists
-# https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/
+# Difficulty: Easy
+# https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 # Definition for singly-linked list.
 # class ListNode:
