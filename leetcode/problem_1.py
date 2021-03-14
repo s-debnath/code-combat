@@ -1,5 +1,5 @@
 # 1. Two Sum
-# Difficulty: Medium
+# Difficulty: Easy
 # https://leetcode.com/problems/two-sum/
 
 class Solution:
