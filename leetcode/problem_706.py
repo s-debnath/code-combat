@@ -1,5 +1,6 @@
-# Design HashMap
-# https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3663/
+# 706. Design HashMap
+# Difficulty: Easy
+# https://leetcode.com/problems/design-hashmap/
 
 class MyHashMap:
     
