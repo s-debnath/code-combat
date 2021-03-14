@@ -1,4 +1,5 @@
-# Average of Levels in Binary Tree
+# 637. Average of Levels in Binary Tree
+# Difficulty: Easy
 # https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/
 
 # Definition for a binary tree node.
