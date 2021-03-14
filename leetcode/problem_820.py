@@ -1,5 +1,6 @@
-# Short Encoding of Words
-# https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3662/
+# 820. Short Encoding of Words
+# Difficulty: Medium
+# https://leetcode.com/problems/short-encoding-of-words/
 
 class Solution:
     def minimumLengthEncoding(self, words: List[str]) -> int:

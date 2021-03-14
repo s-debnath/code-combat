@@ -1,5 +1,6 @@
-# Remove Palindromic Subsequences
-# https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3665/
+# 1332. Remove Palindromic Subsequences
+# Difficulty: Easy
+# https://leetcode.com/problems/remove-palindromic-subsequences/
 
 class Solution:
     def removePalindromeSub(self, s: str) -> int:
